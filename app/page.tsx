@@ -1,35 +1,22 @@
-/**
- */
+"use client";
+
 class ArchitectureLedger {
-public async generateQuantumSeal(data: object): Promise<string> {
-const dataString = JSON.stringify(data);
-// Implementación de Lattice-based Cryptography (Simulación)
-const seal = `Q-SIG:${Buffer.from(dataString).toString('base64')}:LATTICE_ENTROPY`;
-return seal;
+  public async generateQuantumSeal(data: object): Promise<string> {
+    const dataString = JSON.stringify(data);
+    // Implementación de Lattice-based Cryptography (Simulación)
+    const seal = `Q-SIG:${Buffer.from(dataString).toString('base64')}:LATTICE_ENTROPY`;
+    return seal;
+  }
 }
-}
-/**
-* Guardianes de Auditoría ISO 27001
-*/
-class ArchitectureGuardian {
-async heartbeat(): Promise<boolean> {
-console.log('[Guardian] Verificando consistencia estructural...');
-return true;
-}
-}
+
 export default function Home() {
   return (
-    <div className="flex min-h-screen items-center justify-center font-sans">
-      <main className="flex w-full max-w-3xl flex-col items-center gap-8 px-6 py-16 text-center sm:items-start sm:text-left">
-        <div className="flex flex-col gap-4">
-          <h1 className="text-4xl font-bold tracking-tight">
-            Valdovinos_oficial
-          </h1>
-          <p className="max-w-md text-lg text-muted-foreground">
-            To get started, send a prompt or modify this page directly.
-          </p>
-        </div>
-      </main>
-    </div>
+    <main className="flex min-h-screen flex-col items-center justify-center p-24 bg-black text-white">
+      <h1 className="text-4xl font-bold text-yellow-500 mb-8">⚡ ARKHÉ ZERO ⚡</h1>
+      <p className="text-cyan-400 mb-4">Núcleo de Sellado Cuántico NOM-151</p>
+      <div className="border border-cyan-500 p-6 rounded-lg">
+        <p>Sistema Operativo · 51% Humano / 49% IA</p>
+      </div>
+    </main>
   );
 }
