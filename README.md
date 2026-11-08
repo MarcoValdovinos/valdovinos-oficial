@@ -54,3 +54,15 @@ npm run dev
 *   **Código de verificación:** `2608276846490-9H.CNLK`
 *   **Fecha de prueba:** 27 de agosto de 2026 (17:04 UTC)
 *   🔗 [Ver Certificado en Safe Creative](https://www.safecreative.org/certificate)
+
+---
+## ⚖️ Registro de Propiedad Intelectual (Safe Creative)
+
+Este ecosistema cuenta con certificados criptográficos de autoría y fecha:
+
+| Proyecto | Identificador | Código de Verificación |
+| :--- | :--- | :--- |
+| **Kronos 28 v1.0** (Ecosistema Blockchain) | `2608276846490` | `2608276846490-9H.CNLK` |
+| **PVA** (Protocolo de Vida Autopoiética) | `2609046908622` | `2609046908622-66CLEM` |
+
+*Los certificados completos en texto plano se encuentran en la carpeta `/legal/safecreative/`.*

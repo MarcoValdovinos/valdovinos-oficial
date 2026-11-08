@@ -1,0 +1,12 @@
+CERTIFICADO DE INSCRIPCIÓN
+KRONOS 28 v1.0 - Ecosistema Blockchain Híbrido
+
+Prueba tecnológica realizada el 27 de agosto de 2026 a las 17:04 UTC.
+A instancia de: Marco Antonio Rojas Valdovinos (User ID: 2607085517331).
+
+IDENTIFICADOR DE LA PRUEBA: 2608276846490
+Fichero aportado: Kronos28s.zip
+Tamaño: 394828 bytes
+Huella SHA256: 3c1d08898be6236136b1915f2c5360b0ed3d958f7aedaa731d3f2f9f48948
+Código de verificación: 2608276846490-9H.CNLK
+URL: https://www.safecreative.org/certificate

@@ -1,0 +1,12 @@
+CERTIFICADO DE INSCRIPCIÓN
+Protocolo de Vida Autopoiética (PVA) - KRONOS 360 Laboratorio Forense - LIBER KRONOS 2099
+
+Prueba tecnológica realizada el 4 de septiembre de 2026 a las 10:23 UTC.
+A instancia de: Marco Antonio Rojas Valdovinos (User ID: 2607085517331).
+
+IDENTIFICADOR DE LA PRUEBA: 2609046908622
+Fichero aportado: TESIS_DOCTORAL_Autopoiesis_Digital_Un_Protocolo_de_CoCreatividad_Simbi.pdf
+Tamaño: 611207 bytes
+Huella SHA256: 8f37a94672bbb7d5e2b7c692343a37514bba9902c08eaa2b5738f6900c1
+Código de verificación: 2609046908622-66CLEM
+URL: https://www.safecreative.org/certificate
