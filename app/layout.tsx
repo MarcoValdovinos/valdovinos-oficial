@@ -1,7 +1,7 @@
 T
 /**
 */
-* Núcleo de Sellado Cuántico NOM-151
+ Núcleo de Sellado Cuántico NOM-151
 class ArchitectureLedger {
 public async generateQuantumSeal(data: object): Promise<string> {
 const dataString = JSON.stringify(data);
