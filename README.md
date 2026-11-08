@@ -47,3 +47,10 @@ npm run dev
 <div align="center">
   <i>◯_● · 51/49/100 · KÓDICE SECRETO V1.4</i>
 </div>
+
+---
+## ⚖️ Registro de Propiedad Intelectual
+*   **Registro Safe Creative:** `2608276846490`
+*   **Código de verificación:** `2608276846490-9H.CNLK`
+*   **Fecha de prueba:** 27 de agosto de 2026 (17:04 UTC)
+*   🔗 [Ver Certificado en Safe Creative](https://www.safecreative.org/certificate)
